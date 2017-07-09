@@ -1,0 +1,6 @@
+projectKey=wordpress472
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/wordpress472
+ceTaskId=AVzVG7BCy94pK1mBhYFP
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVzVG7BCy94pK1mBhYFP
